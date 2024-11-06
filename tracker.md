@@ -19,9 +19,14 @@ Automation account need contributor access to managed identity
 
 ## 4th November 2024
 ### AWS New
-
 ### Azure task
 - [x] Create a cron job trigger to trigger vm.
 - [x] This should start the vm and run some job inside vm.
 - [x] It should put the output in blob storage.
 - [x] After the job vm should be stopped.
+
+## 5th November 2024
+### AWS New
+### Azure task
+- [x] create a .sh file inside the vm.
+- [x] Script to execute the task and stopping of vm should be there. 
