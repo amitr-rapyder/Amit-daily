@@ -29,4 +29,17 @@ Automation account need contributor access to managed identity
 ### AWS New
 ### Azure task
 - [x] create a .sh file inside the vm.
-- [x] Script to execute the task and stopping of vm should be there. 
+- [ ] Script to execute the task and stopping of vm should be there. 
+
+## 6th November 2024
+### AWS New
+### Azure task
+- [x] create a runbook script to start the vm and execute the .sh file inside the vm
+  
+## 7th November 2024
+### AWS New 
+AWS CodeBuild now supports 18 new compute options for your reserved capacity fleets. You can select up to 96 vCPUs and 192 GB of memory to build and test your software applications on Linux x86, Arm, and Windows platforms.
+https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-compute-types-reserved-capacity/
+### Azure task
+- [ ] Make changes in the runbook script to get the correct status 
+- [ ] Verify other ways to achieve the task and get the desired output
