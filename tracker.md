@@ -41,5 +41,8 @@ Automation account need contributor access to managed identity
 AWS CodeBuild now supports 18 new compute options for your reserved capacity fleets. You can select up to 96 vCPUs and 192 GB of memory to build and test your software applications on Linux x86, Arm, and Windows platforms.
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-compute-types-reserved-capacity/
 ### Azure task
-- [ ] Make changes in the runbook script to get the correct status 
-- [ ] Verify other ways to achieve the task and get the desired output
+- [x] Make changes in the runbook script to get the correct status 
+- [x] Verify other ways to achieve the task and get the desired output
+- [x] create two folder one will be storing the file one will be an empty folder 
+- [ ] run the test cases related to both the folder.
+- [ ] 1st folder will be having the file, 2nd is "if the file is not present" response.
