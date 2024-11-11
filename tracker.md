@@ -29,7 +29,7 @@ Automation account need contributor access to managed identity
 ### AWS New
 ### Azure task
 - [x] create a .sh file inside the vm.
-- [ ] Script to execute the task and stopping of vm should be there. 
+- [x] Script to execute the task and stopping of vm should be there. 
 
 ## 6th November 2024
 ### AWS New
@@ -46,3 +46,9 @@ https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-compute-types-r
 - [x] create two folder one will be storing the file one will be an empty folder 
 - [ ] run the test cases related to both the folder.
 - [ ] 1st folder will be having the file, 2nd is "if the file is not present" response.
+
+## 11th November 2024
+### AWS New 
+Amazon EC2 Auto Scaling Groups (ASG) introduces a new capability for customers to strictly balance their workloads across Availability Zones, enabling greater control over provisioning and management of their EC2 instances.
+https://aws.amazon.com/about-aws/whats-new/2024/11/ec2-auto-scaling-strict-availability-zone-balance/
+### Azure task
