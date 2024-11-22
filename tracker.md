@@ -44,7 +44,7 @@ https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-compute-types-r
 - [x] Make changes in the runbook script to get the correct status 
 - [x] Verify other ways to achieve the task and get the desired output
 - [x] create two folder one will be storing the file one will be an empty folder 
-- [ ] run the test cases related to both the folder.
+- [x] run the test cases related to both the folder.
 - [ ] 1st folder will be having the file, 2nd is "if the file is not present" response.
 
 ## 11th November 2024
@@ -52,3 +52,13 @@ https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-compute-types-r
 Amazon EC2 Auto Scaling Groups (ASG) introduces a new capability for customers to strictly balance their workloads across Availability Zones, enabling greater control over provisioning and management of their EC2 instances.
 https://aws.amazon.com/about-aws/whats-new/2024/11/ec2-auto-scaling-strict-availability-zone-balance/
 ### Azure task
+
+## 14th November 2024
+### AWS New
+Introducing resource control policies (RCPs) to centrally restrict access to AWS resources
+https://aws.amazon.com/about-aws/whats-new/2024/11/resource-control-policies-restrict-access-aws-resources/
+
+## 22nd November 2024
+### AWS New
+Application Load Balancer (ALB) now supports HTTP request and response header modification giving you greater controls to manage your application’s traffic and security posture without having to alter your application code.
+https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security/
