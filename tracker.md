@@ -62,3 +62,8 @@ https://aws.amazon.com/about-aws/whats-new/2024/11/resource-control-policies-res
 ### AWS New
 Application Load Balancer (ALB) now supports HTTP request and response header modification giving you greater controls to manage your application’s traffic and security posture without having to alter your application code.
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security/
+
+## 25th November 2024
+### AWS New
+AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS
+https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement/
