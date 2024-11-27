@@ -67,3 +67,8 @@ https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer
 ### AWS New
 AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement/
+
+## 27th November 2024
+### AWS New
+Amazon EBS announces Time-based Copy for EBS Snapshots
+https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ebs-time-based-copy-snapshots/
